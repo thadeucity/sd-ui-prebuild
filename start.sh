@@ -5,7 +5,7 @@ echo "installing dependencies"
 apt-get install -y python3
 apt-get install -y python3-pip
 apt-get install -y python3-venv
-apt-get install -y python3-opencv
+# apt-get install -y python3-opencv // FIX Later
 
 python3 -V
 
